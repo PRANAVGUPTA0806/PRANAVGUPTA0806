@@ -35,10 +35,7 @@ In my third year, my passion for tech design and coding continues to grow. Codin
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRANAVGUPTA0806&layout=compact&theme=radical" alt="Pranav's Top Languages"/>
 </div>
 
-## 🌟 Highlights
 
-- 🏆 **GitHub Achievements**: Various badges and achievements you've earned on GitHub.
-- 🔥 **Streaks**: Showcase your contribution streaks and activity levels.
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=PRANAVGUPTA0806&theme=radical&column=7" alt="GitHub Trophies"/>
