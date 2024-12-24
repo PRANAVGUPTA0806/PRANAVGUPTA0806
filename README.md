@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Display&weight=600&size=40&pause=600&color=F7F7F7&background=FFFFFF00&vCenter=true&random=false&width=503&height=65&lines=Hi+There+%F0%9F%91%8B!;I+am+Pranav+Gupta.+;I+am+a+Developer.;I+am+a+Coder.)](https://git.io/typing-svg)<img align="right" alt="Your Image" width="350px"  src="ocatcatluffy.svg" >
 
 
-In my third year, my passion for tech design and coding continues to grow. Coding is an art that allows for creative expression and constant refinement of skills. I'm currently focused on full stack development with the MERN stack, which helps in building dynamic web applications. Additionally, I'm enhancing my problem-solving abilities through data structures and algorithms using C++, sharpening my analytical thinking. This dynamic journey turns challenges into opportunities for learning and growth in the ever-evolving tech landscape.
+In my third year, my passion for tech design and coding continues to grow. Coding is an art that allows for creative expression and constant refinement of skills. I'm currently focused on full stack development with the MERN stack, which helps in building dynamic web applications. Additionally, I'm enhancing my problem-solving abilities through data structures and algorithms using JAVA, sharpening my analytical thinking. This dynamic journey turns challenges into opportunities for learning and growth in the ever-evolving tech landscape.
 
 ### - 📫 How to reach me: **[Email:pranavgupta.kuna08@gmail.com](mailto:pranavgupta.kuna08@gmail.com)**
 ### - ⚡ Fun fact: **I think I am Creative 😁.**
